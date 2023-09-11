@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.card {
+  padding: 2em;
+  gap:  2rem;
+}
+
+.child {
+  margin: 2.5px; /* Add margin to create space around each child element */
+}
+
+.screenText {
+  width: 80%;
+  height: 2em;
+  padding: 1em;
+  text-align: right;
+}
